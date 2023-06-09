@@ -1,0 +1,24 @@
+.DS_Store
+node_modules
+/build
+/.svelte-kit
+/package
+.env
+.env.*
+!.env.example
+vite.config.js.timestamp-*
+vite.config.ts.timestamp-*
+
+# static/audio/Đường Xưa Mây Trắng
+# static/audio/Kinh
+# static/audio/Làng Mai
+static/audio/Nhạc Thiền
+**/Nhạc Sóng Alpha.mp3
+**/Full Chakra Alignment - Crystal Singing Bowls Meditation Music - Sound Bath - Sleep Music - Cleanse.mp3
+
+
+static/audio/Nhập Bồ Tát Hạnh (Bồ Tát Tịch Thiên)
+static/audio/Tibetan Mantras
+# add audio later
+static/audio/Tibetan Mantras/Om Mani Padme Hum - lien tuc (Old).mp3
+static/audio/Tibetan Mantras/Green Tara Mantra  Om Tare Tuttare Ture Soha (Old).mp3
